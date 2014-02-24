@@ -1,8 +1,10 @@
 inherit kde4
 
 NAME="kde-l10n-he"
-VERSION=4.10.5
+VERSION=4.11.5
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE Hebrew translation files"
 DESCRIPTION="KDE Hebrew translation files"
+
+ARCH=noarch
